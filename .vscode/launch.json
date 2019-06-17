@@ -12,7 +12,7 @@
             "type": "browser-preview",
             "request": "launch",
             "name": "Browser Preview: Launch",
-            "url": "file:///C:/Source/education/barber/index.html"
+            "url": "file:///C:/Source/education/barber/catalog-item.html"
         }
     ]
 }
